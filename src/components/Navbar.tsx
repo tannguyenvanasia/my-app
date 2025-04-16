@@ -15,8 +15,6 @@ const Navbar = () => {
           <img src={companyLogo} alt='' />
         </div>
         {/* Menu Items */}
-        <div className="bg-brightRed p-4 text-white">Test màu</div>
-
         <div className='hidden space-x-6 md:flex'>
           <Link to='#' className='hover:text-darkGrayishBlue'>
             Pricing

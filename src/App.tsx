@@ -10,15 +10,14 @@ function App() {
 
   return (
     <>
-        <div className="text-blue-400">Test màu</div>
-      {/* <BrowserRouter>
+      <BrowserRouter>
         <Navbar />
         <Hero />
         <Features />
         <Testimonial />
         <CallToAction />
         <Footer />
-      </BrowserRouter> */}
+      </BrowserRouter>
     </>
   )
 }
